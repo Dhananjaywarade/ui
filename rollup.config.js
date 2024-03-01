@@ -7,7 +7,7 @@ export default defineConfig({
     output: {
         file: "dist/index.ts",
         format: "es",
-        name: "ui"
+        name: "uida"
     },
     external: ["react","react-dom"],
     plugins: [typescript({
